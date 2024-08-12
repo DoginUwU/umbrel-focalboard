@@ -1,0 +1,24 @@
+manifestVersion: 1
+id: focalboard
+name: Focalboard
+tagline: Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+icon: https://svgur.com/i/mvA.svg
+category: Development
+version: "8.0.0"
+port: 8000
+description: >-
+  Focalboard is an open source, multilingual, self-hosted project management tool that's an alternative to Trello, Notion, and Asana.
+developer: Focalboard
+website: https://www.focalboard.com/
+submitter: DoginUwU
+submission: https://github.com/DoginUwU/umbrel-focalboard
+repo: https://github.com/mattermost/focalboard
+support: https://github.com/mattermost/focalboard/issues
+gallery:
+  - https://github.com/mattermost/focalboard/blob/main/website/site/static/img/hero.jpg?raw=true
+releaseNotes: >-
+  Add initial docker and umbrel settings.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
