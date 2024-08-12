@@ -3,7 +3,7 @@ version: "3.7"
 services:
   app_proxy:
     environment:
-      APP_HOST: mattermost-focalboard_server_1
+      APP_HOST: doginuwu-focalboard_server_1
       APP_PORT: 8000
 
   server:
